@@ -6,7 +6,8 @@ const char *mysql2_mysql_enc_to_rb[] = {
   "ISO-8859-1",
   NULL,
   "KOI8-R",
-  "ISO-8859-1",
+  // Overridden
+  "UTF-8",
   "ISO-8859-2",
   NULL,
   "US-ASCII",
