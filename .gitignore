@@ -15,4 +15,5 @@ spec/configuration.yml
 spec/my.cnf
 Gemfile.lock
 .ruby-version
+.ruby-gemset
 .rvmrc
